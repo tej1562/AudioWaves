@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-audiowaves-dev-152036-authRole",
+      "UnauthRoleArn": "arn:aws:iam::405109868549:role/amplify-audiowaves-dev-152036-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::405109868549:role/amplify-audiowaves-dev-152036-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-audiowaves-dev-152036-deployment",
+      "UnauthRoleName": "amplify-audiowaves-dev-152036-unauthRole",
+      "StackName": "amplify-audiowaves-dev-152036",
+      "StackId": "arn:aws:cloudformation:us-east-1:405109868549:stack/amplify-audiowaves-dev-152036/55cba2f0-bbac-11eb-b84a-0e61826b144d",
+      "AmplifyAppId": "d2pxjbu48qmcuz"
+    }
+  }
+}
